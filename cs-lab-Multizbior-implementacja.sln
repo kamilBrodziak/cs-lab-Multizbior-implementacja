@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-lab-Multizbior-implementacja", "cs-lab-Multizbior-implementacja\cs-lab-Multizbior-implementacja.csproj", "{45F07BF1-5273-484D-A125-C6750899FD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F07BF1-5273-484D-A125-C6750899FD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F07BF1-5273-484D-A125-C6750899FD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F07BF1-5273-484D-A125-C6750899FD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F07BF1-5273-484D-A125-C6750899FD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3E953C-E001-45CA-895E-EB60A7264CC3}
+	EndGlobalSection
+EndGlobal
